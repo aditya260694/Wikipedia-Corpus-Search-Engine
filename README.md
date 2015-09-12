@@ -16,3 +16,5 @@ Created a secondary indexing for Body Text information i.e Body Text is split in
 Hashed the document ids so that lesser space is taken for storing multiple ocurrences
 Removed stop words, the list of which is in stopwords.txt
 Used a B-Tree based implementation of lists and dictionaries which ensures even large data can be handled efficiently by using main memory.
+
+The Corpus will be indexed to src/NewIndex
